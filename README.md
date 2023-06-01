@@ -2,6 +2,7 @@
 
 - https://doc.houdunren.com/
 - https://vuepress.vuejs.org/zh/
+- linux：https://www.linuxprobe.com/qsxhazhmzlxt.html
 
 ## 启动
 
